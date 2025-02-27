@@ -1,0 +1,12 @@
+INDICE:
+
+N3: Esta trabajado usando variable de clase, asignacion de valores dentro de la
+clase, con variables de clase
+
+N7: trabajado con variable de clase, acumulador dentro del metodo init,
+calculo del promedio usando el contador de variable de clase
+
+------------programacion lineal y estructurada pasada a POO (usando variables de clase)------------
+N10: suma y multiplicacion de dos numeros forma 1
+
+

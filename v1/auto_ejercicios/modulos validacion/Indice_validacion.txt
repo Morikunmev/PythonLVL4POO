@@ -1,0 +1,10 @@
+INDICE DE VALIDACION:
+
+-------------generaldef-------------
+NOMBRE, ENTERO UNSIGNED, EDAD, PRECIO, ENTERO
+
+-------------operaciones_simples-------------
+suma,resta,multiplicacion,division, mayor, menor
+
+-------------ValidacionAsignable-------------
+NOMBRE, EDAD, FLOTANTE, ALTURA

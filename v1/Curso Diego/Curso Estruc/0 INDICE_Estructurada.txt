@@ -1,0 +1,6 @@
+INDICE
+
+---------[Equivalencia de POO con programacion estructurada]---------
+1-5
+---------[programacion estructurada con MODULOS]---------
+

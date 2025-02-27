@@ -1,0 +1,15 @@
+INDICE Clases Modulares:
+
+-----------[algoritmo secuencial]-----------
+n1: uso de 2 librerias
+n2: calculo de precio de producto en la clase llamada Producto
+n3: Calculo del area y perimetro de un rectangulo
+n4: Calculo de la suma y el producto de 4 numeros
+n5: suma y promedio de cuatro numeros
+n6: Calculo de horas trabajadas de un operario
+
+
+-----------[Estructura condicional simple y compuesta]-----------
+n7: Condicional si el objeto de la clase persona debe pagar impuestos
+n8: Condicional de dos numeros si uno es mayor y otro si es menor
+n9: EJERCICIO ESPECIAL

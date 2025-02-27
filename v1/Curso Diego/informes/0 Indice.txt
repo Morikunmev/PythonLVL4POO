@@ -1,0 +1,15 @@
+INDICE
+
+----------[Declaracion de una clase y creacion de objetos]----------
+N1: Creacion de una clase, con sus metodos, y creacion de objetos
+
+EXPLICACION:
+Una clase es un molde, porque despues podemos definir muchos objetos de dicha clase,
+guardando los nuevos metodos y/o funciones de cada objeto que se añade.
+Esto ahorra la necesidad de (como en la programacion estructurada) crear variable por variable
+y evitar confusiones.
+
+----------[Metodo __init__ de la clase]----------
+n1: Uno del metodo especial __init__ en vez de "inicializar" como en los primeros ejercicios
+n5: Le podemos asignar variables a la clase al momento de crearla gracias al metodo __init__
+
